@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">alc4.0</string>
+    <string name="alc4_phase1">ALC4 Phase1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="todo">TODO</string>
+    <string name="andela">Andela</string>
+    <string name="the_andela_learning_community">THE ANDELA LEARNING COMMUNITY</string>
+    <string name="a_community_empowering_the_next_generation_of_african_technology_leaders">A community empowering the next generation of African technology leaders</string>
+    <string name="the_andela_learning_community_is_a_network_of_people_technologists_and_tech_enthusiasts_across_africa_dedicated_to_learning_how_to_use_technology_to_solve_humanity_s_problems">The Andela Learning Community is a network of people technologists and tech enthusiasts across Africa dedicated to learning how to use technology to solve humanity\'s problems</string>
+    <string name="join_us">Join us!</string>
+    <string name="ozioko_kennth_chukwuebuka">Ozioko Kennth Chukwuebuka</string>
+    <string name="todoo">TODO</string>
+    <string name="todooo">TODO</string>
+    <string name="myprofile">My Profile</string>
+    <string name="track_android">Track: Android</string>
+    <string name="ozioko_kenneth_chukwuebuka">Ozioko Kenneth Chukwuebuka</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="trackandroid">Track: Android</string>
+    <string name="email_kennethnestor13_gmail_com">Email: kennethnestor13@gmail.com</string>
+    <string name="slack_username_chukwuebukha">Slack Username: @Chukwuebukha</string>
+    <string name="phone_number_2348136613073">Phone Number: 2348136613073</string>
+</resources>
